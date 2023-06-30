@@ -13,7 +13,13 @@ This repository contains a list of helpful materials used for interview preparat
 WIP
 
 ## Coding interview
-WIP
+
+### Books and sites for studying theoretical basics of algorithms
+- Introduction to Algorithms by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein.
+
+### Resources for practicing solving algorithmical tasks
+- [LeetCode](https://leetcode.com)
+- [Grind75](https://www.techinterviewhandbook.org/grind75)
 
 ## ML/DL interview
 
