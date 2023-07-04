@@ -16,6 +16,7 @@ WIP
 
 ### Books and sites for studying theoretical basics of algorithms
 - Introduction to Algorithms by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein.
+- Cracking the Coding Interview: 189 Programming Questions and Solutions by Gayle Laakmann McDowell.
 
 ### Resources for practicing solving algorithmical tasks
 - [LeetCode](https://leetcode.com)
