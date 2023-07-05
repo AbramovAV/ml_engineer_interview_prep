@@ -7,6 +7,7 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 - (Easy) [Flood Fill](https://leetcode.com/problems/flood-fill/)
 - (Easy) [Majority Element](https://leetcode.com/problems/majority-element/description/) - refer to [Boyer–Moore majority vote](https://en.wikipedia.org/wiki/Boyer–Moore_majority_vote_algorithm) algorithm
 - (Easy) [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+- (Medium) [Insert Interval](https://leetcode.com/problems/insert-interval/)
 
 ## Binary Search
 - (Easy) [Binary Search](https://leetcode.com/problems/binary-search/) - refer to [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) algorithm
@@ -23,6 +24,7 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 
 - (Easy) [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - (Easy) [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+- (Medium) [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 
 ## Hashmap
 
