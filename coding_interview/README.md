@@ -61,6 +61,7 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 - (Easy) [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - (Easy) [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
 - (Medium) [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) - refer to [Reverse Polish notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation) article
+- (Medium)[Min Stack](https://leetcode.com/problems/min-stack/)
 
 ## String
 
