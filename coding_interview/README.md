@@ -35,7 +35,7 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 - (Easy) [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - (Medium) [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
-# Heap
+## Heap
 
 - (Medium) [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) - refer to [Binary Heap](https://en.wikipedia.org/wiki/Binary_heap) data structure and [Heapsort](https://en.wikipedia.org/wiki/Heapsort) algorithm
 
