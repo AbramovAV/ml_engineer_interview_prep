@@ -26,6 +26,10 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 - (Easy) [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - (Medium) [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 
+## Graph
+
+- (Medium) [Clone Graph](https://leetcode.com/problems/clone-graph/) - refer to [Breadth First Search for Graphs](https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/) algorithm
+
 ## Hashmap
 
 - (Easy) [Two Sum](https://leetcode.com/problems/two-sum/)
