@@ -33,6 +33,7 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 - (Easy) [Ransom Note](https://leetcode.com/problems/ransom-note/)
 - (Easy) [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
 - (Easy) [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- (Medium) [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 # Heap
 
