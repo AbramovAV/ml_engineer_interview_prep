@@ -34,6 +34,10 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 - (Easy) [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
 - (Easy) [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 
+# Heap
+
+- (Medium) [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) - refer to [Binary Heap](https://en.wikipedia.org/wiki/Binary_heap) data structure and [Heapsort](https://en.wikipedia.org/wiki/Heapsort) algorithm
+
 ## LinkedList
 
 - (Easy) [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
@@ -42,6 +46,10 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 - (Easy) [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 - (Easy) [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 - (Easy) [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+
+## Merge sort
+
+- (Medium) [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) - refer to [Merge sort](https://en.wikipedia.org/wiki/Merge_sort) algorithm
 
 ## Stack
 
