@@ -8,6 +8,7 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 - (Easy) [Majority Element](https://leetcode.com/problems/majority-element/description/) - refer to [Boyer–Moore majority vote](https://en.wikipedia.org/wiki/Boyer–Moore_majority_vote_algorithm) algorithm
 - (Easy) [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - (Medium) [Insert Interval](https://leetcode.com/problems/insert-interval/)
+- (Medium) [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 
 ## Binary Search
 - (Easy) [Binary Search](https://leetcode.com/problems/binary-search/) - refer to [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) algorithm
