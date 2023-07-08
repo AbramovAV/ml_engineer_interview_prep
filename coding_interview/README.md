@@ -39,7 +39,6 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 - (Easy) [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
 - (Easy) [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - (Medium) [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-- (Medium) [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
 
 ## Heap
 
@@ -53,6 +52,10 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 - (Easy) [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 - (Easy) [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 - (Easy) [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+
+## Matrix
+- (Medium) [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
+- (Medium) [Number of Islands](https://leetcode.com/problems/number-of-islands/) - refer to [Breadth-First Search for Matrix](https://www.geeksforgeeks.org/breadth-first-traversal-bfs-on-a-2d-array/) algorithm
 
 ## Merge sort
 
