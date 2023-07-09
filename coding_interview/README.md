@@ -10,6 +10,7 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 - (Medium) [Insert Interval](https://leetcode.com/problems/insert-interval/)
 - (Medium) [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - (Medium) [3Sum](https://leetcode.com/problems/3sum/) - refer to [this solution](https://leetcode.com/problems/3sum/solutions/2602454/python-solution-100-explained/)
+- (Medium) [Permutations](https://leetcode.com/problems/permutations/)
 
 ## Binary Search
 - (Easy) [Binary Search](https://leetcode.com/problems/binary-search/) - refer to [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) algorithm
