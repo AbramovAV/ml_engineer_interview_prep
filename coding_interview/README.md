@@ -9,6 +9,7 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 - (Easy) [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - (Medium) [Insert Interval](https://leetcode.com/problems/insert-interval/)
 - (Medium) [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+- (Medium) [3Sum](https://leetcode.com/problems/3sum/) - refer to [this solution](https://leetcode.com/problems/3sum/solutions/2602454/python-solution-100-explained/)
 
 ## Binary Search
 - (Easy) [Binary Search](https://leetcode.com/problems/binary-search/) - refer to [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) algorithm
@@ -39,6 +40,7 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 - (Easy) [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
 - (Easy) [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - (Medium) [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- (Medium) [3Sum](https://leetcode.com/problems/3sum/)
 
 ## Heap
 
