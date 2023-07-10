@@ -31,6 +31,7 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 - (Easy) [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - (Easy) [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - (Medium) [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+- (Medium) [Coin Change](https://leetcode.com/problems/coin-change/) - refer to [this solution](https://leetcode.com/problems/coin-change/solutions/478739/python3-dp-solution-with-comments-to-help-understand-what-is-happening-and-why/)
 
 ## Graph
 
