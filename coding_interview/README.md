@@ -18,6 +18,7 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 - (Easy) [Binary Search](https://leetcode.com/problems/binary-search/) - refer to [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) algorithm
 - (Easy) [First Bad Version](https://leetcode.com/problems/first-bad-version/)
 - (Medium) [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) - refer to [this solution](https://leetcode.com/problems/search-in-rotated-sorted-array/solutions/1183146/python3-solution-using-binary-search-faster-than-98-and-uses-the-least-memory/)
+- (Medium) [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)
 
 ## Bit Manipulation
 
