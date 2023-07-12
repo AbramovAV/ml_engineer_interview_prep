@@ -14,6 +14,7 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 - (Medium) [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - (Medium) [Combination Sum](https://leetcode.com/problems/combination-sum/)
 - (Medium) [Sort Colors](https://leetcode.com/problems/sort-colors/) - refer to [Dutch national flag problem](https://en.wikipedia.org/wiki/Dutch_national_flag_problem)
+- (Medium) [Subsets](https://leetcode.com/problems/subsets/)
 
 ## Binary Search
 - (Easy) [Binary Search](https://leetcode.com/problems/binary-search/) - refer to [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) algorithm
