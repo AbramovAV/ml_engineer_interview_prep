@@ -86,6 +86,7 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 - (Easy) [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 - (Easy) [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
 - (Easy) [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+- (Medium) [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
 
 ## Tree
 
