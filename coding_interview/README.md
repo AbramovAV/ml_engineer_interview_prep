@@ -65,6 +65,7 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 - (Easy) [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 - (Easy) [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 - (Easy) [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+- (Medium) [LRU Cache](https://leetcode.com/problems/lru-cache/) - refer to [this solution](https://leetcode.com/problems/lru-cache/solutions/352295/python3-doubly-linked-list-and-dictionary/)
 
 ## Matrix
 - (Medium) [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
