@@ -37,6 +37,7 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 - (Medium) [Coin Change](https://leetcode.com/problems/coin-change/) - refer to [this solution](https://leetcode.com/problems/coin-change/solutions/478739/python3-dp-solution-with-comments-to-help-understand-what-is-happening-and-why/)
 - (Medium) [Word Break](https://leetcode.com/problems/word-break/)
 - (Medium) [Unique Paths](https://leetcode.com/problems/unique-paths/)
+- (Medium) [House Robber](https://leetcode.com/problems/house-robber/)
 
 ## Graph
 
