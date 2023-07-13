@@ -92,6 +92,7 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 - (Easy) [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
 - (Easy) [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 - (Medium) [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
+- (Medium) [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 
 ## Tree
 
