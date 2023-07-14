@@ -40,6 +40,7 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 - (Medium) [Word Break](https://leetcode.com/problems/word-break/)
 - (Medium) [Unique Paths](https://leetcode.com/problems/unique-paths/)
 - (Medium) [House Robber](https://leetcode.com/problems/house-robber/)
+- (Medium) [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) - refer to [this solution](https://leetcode.com/problems/partition-equal-subset-sum/solutions/3266674/416-space-99-79-solution-with-step-by-step-explanation/)
 
 ## Graph
 
