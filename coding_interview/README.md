@@ -35,12 +35,13 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 
 - (Easy) [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - (Easy) [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
-- (Medium) [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+- (Medium) [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) - refer to [Kadane's](https://en.wikipedia.org/wiki/Maximum_subarray_problem) algorithm
 - (Medium) [Coin Change](https://leetcode.com/problems/coin-change/) - refer to [this solution](https://leetcode.com/problems/coin-change/solutions/478739/python3-dp-solution-with-comments-to-help-understand-what-is-happening-and-why/)
 - (Medium) [Word Break](https://leetcode.com/problems/word-break/)
 - (Medium) [Unique Paths](https://leetcode.com/problems/unique-paths/)
 - (Medium) [House Robber](https://leetcode.com/problems/house-robber/)
 - (Medium) [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) - refer to [this solution](https://leetcode.com/problems/partition-equal-subset-sum/solutions/3266674/416-space-99-79-solution-with-step-by-step-explanation/)
+- (Medium) [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 
 ## Graph
 
