@@ -73,6 +73,7 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 - (Easy) [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 - (Medium) [LRU Cache](https://leetcode.com/problems/lru-cache/) - refer to [this solution](https://leetcode.com/problems/lru-cache/solutions/352295/python3-doubly-linked-list-and-dictionary/)
 - (Medium) [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- (Medium) [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
 
 ## Matrix
 - (Medium) [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
