@@ -58,6 +58,7 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 - (Easy) [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - (Medium) [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - (Medium) [3Sum](https://leetcode.com/problems/3sum/)
+- (Medium) [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 
 ## Heap
 
