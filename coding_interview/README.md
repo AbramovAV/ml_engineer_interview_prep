@@ -17,6 +17,7 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 - (Medium) [Subsets](https://leetcode.com/problems/subsets/)
 - (Medium) [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - (Medium) [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) - refer to [Floyd's tortoise and hare](https://en.wikipedia.org/wiki/Cycle_detection) algorithm, [this explanation](https://keithschwarz.com/interesting/code/?dir=find-duplicate) and Joma's [video](https://youtu.be/pKO9UjSeLew)
+- (Medium) [Rotate Array](https://leetcode.com/problems/rotate-array/)
 
 ## Binary Search
 - (Easy) [Binary Search](https://leetcode.com/problems/binary-search/) - refer to [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) algorithm
