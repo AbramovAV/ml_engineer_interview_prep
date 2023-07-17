@@ -43,6 +43,7 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 - (Medium) [House Robber](https://leetcode.com/problems/house-robber/)
 - (Medium) [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) - refer to [this solution](https://leetcode.com/problems/partition-equal-subset-sum/solutions/3266674/416-space-99-79-solution-with-step-by-step-explanation/)
 - (Medium) [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+- (Medium) [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 
 ## Graph
 
