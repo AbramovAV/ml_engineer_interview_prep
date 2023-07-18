@@ -85,6 +85,10 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 - (Medium) [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
 - (Medium) [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
 
+## Math
+
+- (Medium) [Pow(x, n)](https://leetcode.com/problems/powx-n/) - refer to [Efficient computation with integer exponents](https://en.wikipedia.org/wiki/Exponentiation#Efficient_computation_with_integer_exponents)
+
 ## Matrix
 - (Medium) [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
 - (Medium) [Number of Islands](https://leetcode.com/problems/number-of-islands/) - refer to [Breadth-First Search for Matrix](https://www.geeksforgeeks.org/breadth-first-traversal-bfs-on-a-2d-array/) algorithm
