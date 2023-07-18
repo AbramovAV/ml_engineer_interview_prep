@@ -64,10 +64,12 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 - (Medium) [3Sum](https://leetcode.com/problems/3sum/)
 - (Medium) [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - (Medium) [Contiguous Array](https://leetcode.com/problems/contiguous-array/)
+- (Medium) [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
 
 ## Heap
 
 - (Medium) [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) - refer to [Binary Heap](https://en.wikipedia.org/wiki/Binary_heap) data structure and [Heapsort](https://en.wikipedia.org/wiki/Heapsort) algorithm
+- (Medium) [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
 
 ## LinkedList
 
