@@ -50,6 +50,7 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 
 - (Medium) [Clone Graph](https://leetcode.com/problems/clone-graph/) - refer to [Breadth First Search for Graphs](https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/) algorithm
 - (Medium)[Course Schedule](https://leetcode.com/problems/course-schedule/) - refer to [Topological Sorting](https://www.techinterviewhandbook.org/algorithms/graph/#topological-sorting) algorithm
+- (Medium)[Accounts Merge](https://leetcode.com/problems/accounts-merge/) - refer to [this solution](https://leetcode.com/problems/accounts-merge/solutions/2014051/python-easy-to-read-and-understand-dfs/)
 
 ## Hashmap
 
