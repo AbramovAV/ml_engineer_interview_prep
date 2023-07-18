@@ -19,6 +19,7 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 - (Medium) [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) - refer to [Floyd's tortoise and hare](https://en.wikipedia.org/wiki/Cycle_detection) algorithm, [this explanation](https://keithschwarz.com/interesting/code/?dir=find-duplicate) and Joma's [video](https://youtu.be/pKO9UjSeLew)
 - (Medium) [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - (Medium) [Next Permutation](https://leetcode.com/problems/next-permutation/) - refer to [Generation in lexicographic order](https://en.wikipedia.org/wiki/Permutation#Generation_in_lexicographic_order) method
+- (Medium) [Gas Station](https://leetcode.com/problems/gas-station/)
 
 ## Binary Search
 - (Easy) [Binary Search](https://leetcode.com/problems/binary-search/) - refer to [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) algorithm
