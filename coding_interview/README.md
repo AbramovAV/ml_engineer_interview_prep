@@ -55,8 +55,8 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 ## Graph
 
 - (Medium) [Clone Graph](https://leetcode.com/problems/clone-graph/) - refer to [Breadth First Search for Graphs](https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/) algorithm
-- (Medium)[Course Schedule](https://leetcode.com/problems/course-schedule/) - refer to [Topological Sorting](https://www.techinterviewhandbook.org/algorithms/graph/#topological-sorting) algorithm
-- (Medium)[Accounts Merge](https://leetcode.com/problems/accounts-merge/) - refer to [this solution](https://leetcode.com/problems/accounts-merge/solutions/2014051/python-easy-to-read-and-understand-dfs/)
+- (Medium) [Course Schedule](https://leetcode.com/problems/course-schedule/) - refer to [Topological Sorting](https://www.techinterviewhandbook.org/algorithms/graph/#topological-sorting) algorithm
+- (Medium) [Accounts Merge](https://leetcode.com/problems/accounts-merge/) - refer to [this solution](https://leetcode.com/problems/accounts-merge/solutions/2014051/python-easy-to-read-and-understand-dfs/)
 - (Medium) [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) - refer to [this solution](https://leetcode.com/problems/minimum-height-trees/solutions/76055/share-some-thoughts/)
 - (Medium) [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) - refer to [Topological Sorting](https://www.techinterviewhandbook.org/algorithms/graph/#topological-sorting) algorithm
 
@@ -114,8 +114,8 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 - (Easy) [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - (Easy) [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
 - (Medium) [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) - refer to [Reverse Polish notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation) article
-- (Medium)[Min Stack](https://leetcode.com/problems/min-stack/)
-- (Medium)[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) - refer to [Monotonic Stack](https://www.geeksforgeeks.org/introduction-to-monotonic-stack-data-structure-and-algorithm-tutorials/) data structure
+- (Medium) [Min Stack](https://leetcode.com/problems/min-stack/)
+- (Medium) [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) - refer to [Monotonic Stack](https://www.geeksforgeeks.org/introduction-to-monotonic-stack-data-structure-and-algorithm-tutorials/) data structure
 
 ## String
 
@@ -135,9 +135,12 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 - (Easy) [Same Tree](https://leetcode.com/problems/same-tree/)
 - (Medium) [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 - (Medium) [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
-- (Medium)[Validate Binary Tree](https://leetcode.com/problems/validate-binary-search-tree/) - refer to [Depth-First In-order Traversal](https://en.wikipedia.org/wiki/Tree_traversal)
-- (Medium)[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) - refer to [this solution](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/solutions/3231708/236-solution-with-step-by-step-explanation/)
-- (Medium)[Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/) - refer to [article](https://medium.com/basecs/trying-to-understand-tries-3ec6bede0014) on tries and [this solution](https://leetcode.com/problems/implement-trie-prefix-tree/solutions/1509811/python-simple-approach-beats-99-77-submissions/)
-- (Medium)[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
-- (Medium)[Path Sum II](https://leetcode.com/problems/path-sum-ii/)
-- (Medium)[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) - refer to [Depth-First In-order Traversal](https://en.wikipedia.org/wiki/Tree_traversal)
+- (Medium) [Validate Binary Tree](https://leetcode.com/problems/validate-binary-search-tree/) - refer to [Depth-First In-order Traversal](https://en.wikipedia.org/wiki/Tree_traversal)
+- (Medium) [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) - refer to [this solution](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/solutions/3231708/236-solution-with-step-by-step-explanation/)
+- (Medium) [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
+- (Medium) [Path Sum II](https://leetcode.com/problems/path-sum-ii/)
+- (Medium) [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) - refer to [Depth-First In-order Traversal](https://en.wikipedia.org/wiki/Tree_traversal)
+
+## Trie
+- (Medium) [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/) - refer to [article](https://medium.com/basecs/trying-to-understand-tries-3ec6bede0014) on tries and [this solution](https://leetcode.com/problems/implement-trie-prefix-tree/solutions/1509811/python-simple-approach-beats-99-77-submissions/)
+- (Medium) [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
