@@ -57,6 +57,7 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 - (Medium)[Course Schedule](https://leetcode.com/problems/course-schedule/) - refer to [Topological Sorting](https://www.techinterviewhandbook.org/algorithms/graph/#topological-sorting) algorithm
 - (Medium)[Accounts Merge](https://leetcode.com/problems/accounts-merge/) - refer to [this solution](https://leetcode.com/problems/accounts-merge/solutions/2014051/python-easy-to-read-and-understand-dfs/)
 - (Medium) [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) - refer to [this solution](https://leetcode.com/problems/minimum-height-trees/solutions/76055/share-some-thoughts/)
+- (Medium) [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) - refer to [Topological Sorting](https://www.techinterviewhandbook.org/algorithms/graph/#topological-sorting) algorithm
 
 ## Hashmap
 
