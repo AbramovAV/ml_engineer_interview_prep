@@ -71,6 +71,7 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 
 - (Medium) [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) - refer to [Binary Heap](https://en.wikipedia.org/wiki/Binary_heap) data structure and [Heapsort](https://en.wikipedia.org/wiki/Heapsort) algorithm
 - (Medium) [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
+- (Medium) [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
 
 ## LinkedList
 
