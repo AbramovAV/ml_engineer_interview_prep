@@ -21,6 +21,10 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 - (Medium) [Next Permutation](https://leetcode.com/problems/next-permutation/) - refer to [Generation in lexicographic order](https://en.wikipedia.org/wiki/Permutation#Generation_in_lexicographic_order) method
 - (Medium) [Gas Station](https://leetcode.com/problems/gas-station/)
 
+## Backtracking
+
+- (Medium) [Word Search](https://leetcode.com/problems/word-search/)
+
 ## Binary Search
 - (Easy) [Binary Search](https://leetcode.com/problems/binary-search/) - refer to [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm) algorithm
 - (Easy) [First Bad Version](https://leetcode.com/problems/first-bad-version/)
