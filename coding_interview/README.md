@@ -74,6 +74,7 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 - (Medium) [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
 - (Medium) [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 - (Medium) [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
+- (Medium) [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 
 ## Heap
 
