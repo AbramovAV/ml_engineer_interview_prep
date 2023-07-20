@@ -112,6 +112,9 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 
 - (Medium) [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) - refer to [Merge sort](https://en.wikipedia.org/wiki/Merge_sort) algorithm
 
+## Sorting
+- (Medium) [Largest Number](https://leetcode.com/problems/largest-number/) - refer to [Comparison Function](https://docs.python.org/3/howto/sorting.html#comparison-functions) or [Merge sort](https://en.wikipedia.org/wiki/Merge_sort) algorithm. Implementing any sorting algorithm would work.
+
 ## Stack
 
 - (Easy) [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
