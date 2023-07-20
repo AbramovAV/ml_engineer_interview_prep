@@ -119,6 +119,7 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 - (Medium) [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) - refer to [Reverse Polish notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation) article
 - (Medium) [Min Stack](https://leetcode.com/problems/min-stack/)
 - (Medium) [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) - refer to [Monotonic Stack](https://www.geeksforgeeks.org/introduction-to-monotonic-stack-data-structure-and-algorithm-tutorials/) data structure
+- (Medium) [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
 
 ## String
 
