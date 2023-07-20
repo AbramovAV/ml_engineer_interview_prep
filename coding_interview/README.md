@@ -51,6 +51,7 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 - (Medium) [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 - (Medium) [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 - (Medium) [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+- (Medium) [Jump Game](https://leetcode.com/problems/jump-game/)
 
 ## Graph
 
