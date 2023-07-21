@@ -97,6 +97,7 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 - (Medium) [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
 - (Medium) [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
 - (Medium) [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+- (Medium) [Sort List](https://leetcode.com/problems/sort-list/) - refer to [Merge sort](https://en.wikipedia.org/wiki/Merge_sort) algorithm
 
 ## Math
 
@@ -112,6 +113,7 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 ## Merge sort
 
 - (Medium) [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) - refer to [Merge sort](https://en.wikipedia.org/wiki/Merge_sort) algorithm
+- (Medium) [Sort List](https://leetcode.com/problems/sort-list/) - refer to [Merge sort](https://en.wikipedia.org/wiki/Merge_sort) algorithm
 
 ## Quickselect
 - (Medium) [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) - refer to [Quickselect](https://en.wikipedia.org/wiki/Quickselect) algorithm
