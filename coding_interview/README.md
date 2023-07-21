@@ -82,6 +82,7 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 - (Medium) [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) - refer to [Binary Heap](https://en.wikipedia.org/wiki/Binary_heap) data structure and [Heapsort](https://en.wikipedia.org/wiki/Heapsort) algorithm
 - (Medium) [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
 - (Medium) [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
+- (Medium) [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 
 ## LinkedList
 
@@ -111,6 +112,9 @@ A list of tasks below is compiled from selected [LeetCode](https://leetcode.com)
 ## Merge sort
 
 - (Medium) [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) - refer to [Merge sort](https://en.wikipedia.org/wiki/Merge_sort) algorithm
+
+## Quickselect
+- (Medium) [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) - refer to [Quickselect](https://en.wikipedia.org/wiki/Quickselect) algorithm
 
 ## Sorting
 - (Medium) [Largest Number](https://leetcode.com/problems/largest-number/) - refer to [Comparison Function](https://docs.python.org/3/howto/sorting.html#comparison-functions) or [Merge sort](https://en.wikipedia.org/wiki/Merge_sort) algorithm. Implementing any sorting algorithm would work.
